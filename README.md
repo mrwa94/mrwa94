@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mrwa94
 - 👀 I’m interested in Swift , SwiftUI , JavaScript, react js .
 - 🌱 I’m currently learning  SwiftUI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Front-end project
+- 📫 How to reach me Email :mrwaff4@gmail.com
 
 <!---
 mrwa94/mrwa94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
