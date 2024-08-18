@@ -3,7 +3,7 @@
 </div>
 
 <h1 style="color: #0000FF ; margin-top:50%  ">👾 About Me  </h1>
-<img width="150" style="border-radius: 50% ; margin-top: 20px"  src="logo.JPG" alt="logo" title="logo"/>
+<img  style=" margin-top: 20px"  src="logo.png" alt="logo" title="logo"/>
 
 <div>
 <h1 style="color: #0000FF ; margin-top:50px  "> 🌟 What I Do  </h1>
