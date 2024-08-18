@@ -1,6 +1,6 @@
 <div><img width="150" style="border-radius: 50% ; margin-top: 20px"  src="marwaLogo.JPG" alt="logo" title="logo"/></div>
 
-<h1 style="color: #0000FF ; margin-top:50px  ">👾 About Me  </h1>
+<h1 style="color: #0000FF ; margin-top:50%  ">👾 About Me  </h1>
 Hello  👋🏼 .. <span style="color: #ff0033 ; font-weight:bold"> I'm Marwa Alsubhi .</span> I’m a passionate Software Engineer  with a strong background in full-stack development.
 I enjoy solving problems and building innovative solutions.
 
